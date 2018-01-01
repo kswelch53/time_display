@@ -1,0 +1,13 @@
+.clock{
+  display: block;
+  width: 35%;
+  height: auto;
+  background-color: lightgray;
+  border: 5px solid silver;
+  border-radius: 10px 10px 10px 10px;
+  padding-left: 10px;
+}
+
+h1, h4{
+  font-family: sans-serif;
+}
